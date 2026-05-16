@@ -330,7 +330,7 @@ DIVIDE(
 | ![Insights](Screenshots/Key_Findings_Recommendations1.PNG) | Key findings & recommendations page |
 
 
-More screenshots available in (!Documentation/Project_Notes.docx)
+More screenshots available in (Documentation/Project_Notes.docx)
 
 ---
 
