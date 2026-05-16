@@ -323,11 +323,14 @@ DIVIDE(
 
 | Page | Description |
 |------|-------------|
-| ![Overview](Screenshots/Dashboard_Overview.png) | Main dashboard — no filter |
-| ![2023](Screenshots/Dashboard_2023.png) | 2023 selected — best analytical state |
-| ![2022](Screenshots/Dashboard_2022.png) | 2022 selected — partial year warning visible |
-| ![Detail](Screenshots/Detailed_View.png) | Detailed view — retention + product analysis |
-| ![Insights](Screenshots/Key_Findings_Recommendations.png) | Key findings & recommendations page |
+| ![Overview](Screenshots/Dashboard_Overview.PNG) | Main dashboard — no filter |
+| ![2023](Screenshots/Dashboard_2023.PNG) | 2023 selected — best analytical state |
+| ![2022](Screenshots/Dashboard_2022.PNG) | 2022 selected — partial year warning visible |
+| ![Detail](Screenshots/Detailed_View.PNG) | Detailed view — retention + product analysis |
+| ![Insights](Screenshots/Key_Findings_Recommendations1.PNG) | Key findings & recommendations page |
+
+
+More screenshots available in (!Documentation/Project_Notes.docx)
 
 ---
 
